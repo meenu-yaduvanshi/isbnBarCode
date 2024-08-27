@@ -1,26 +1,6 @@
 {
-   "1503280780": {
-      "title": "Moby Dick",
-      "authors": "Herman Melville"
-   },
-   "1503290565": {
-      "title": "Pride and Prejudice",
-      "authors": "Jane Austen"
-   },
-   "9780590353427": {
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "authors": "J. K. Rowling"
-   },
-   "9780062315007": {
-      "title": "The Alchemist",
-      "authors": "Paulo Coelho"
-   },
-   "9780307387899": {
-      "title": "The Road",
-      "authors": "Cormac McCarthy"
-   },
    "9780140449136": {
-      "title": "Crime and Punishment",
-      "authors": "Fyodor Dostoyevsky"
+      "title": "Error",
+      "authors": "Error fetching data: Request failed with status code 429"
    }
 }
